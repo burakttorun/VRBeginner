@@ -1,0 +1,1 @@
+Projects created to interact with objects in the scene with input from the mouse.
